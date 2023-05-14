@@ -20,6 +20,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 				permanent: false,
 				destination: `${
 					`https://www.highrevenuegate.com/yq8imynhq0?key=91a1ca58688c5b0e933dd30e1f5db302`
+		}`,
 			},
 		};
 		}
